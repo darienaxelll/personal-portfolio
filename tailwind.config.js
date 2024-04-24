@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         paragraph: ['"Familjen Grotesk"', "sans-serif"],
-        nameTitle: ['"Zen Tokyo Zoo"', "sans-serif"]
+        nameTitle: ['"Zen Tokyo Zoo"', "sans-serif"],
       },
     },
   },
